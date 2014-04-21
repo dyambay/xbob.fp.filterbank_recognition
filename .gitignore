@@ -1,0 +1,15 @@
+*.swp
+*~
+*.pyc
+*.png
+*.pdf
+.installed.cfg
+.mr.developer.cfg
+eggs/
+develop-eggs/
+xbob.example.faceverify.egg-info/
+src/
+bin/
+dist/
+sphinx/
+Database/

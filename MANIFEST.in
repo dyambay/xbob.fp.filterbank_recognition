@@ -1,0 +1,6 @@
+include README.rst
+include bootstrap.py
+include buildout.cfg
+recursive-include doc *.rst *.png conf.py
+recursive-include xbob/example/faceverify/tests *.hdf5
+
